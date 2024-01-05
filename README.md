@@ -1,4 +1,4 @@
-###                                          Hi Guys ! I am Harsha 👋
+#                                      Hi Guys ! I am Harsha 👋
 ###                           🔭 I’m currently working on IOS and Machine Learning 
 
 
