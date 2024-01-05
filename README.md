@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi Guys ! I am Harsha 👋
+### 🔭 I’m currently working on IOS and Machine Learning 
+### 😄 Pronouns: He/Him
 
 <!--
 **harshavardhanyadav2004/harshavardhanyadav2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
