@@ -1,6 +1,22 @@
-### Hi Guys ! I am Harsha 👋
-### 🔭 I’m currently working on IOS and Machine Learning 
+###                                          Hi Guys ! I am Harsha 👋
+###                           🔭 I’m currently working on IOS and Machine Learning 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 😄 Pronouns: He/Him
+### 💬 Ask me about : Swift/IOS , Java , Python
+### Fun fact : Drifting with the swift
 
 <!--
 **harshavardhanyadav2004/harshavardhanyadav2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
