@@ -36,7 +36,7 @@
   </a>
   
 </div>
-<br> <br> 
+<br> 
 <h2> <i> Tools and Technologies</i></h2>
 <div style="display:inline-block;">
   <a href = "https://developer.mozilla.org/en-US/">
@@ -66,6 +66,37 @@ width =  10% >
     <img alt = "image15" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/5573bcfa-acb6-4b46-af4b-814708623cb2" height = 11%
       width = 11%>
 </div>
+<div style="display:inline-block;">
+  <h2><i>Coding Profiles</i></h2>
+  <a href = "https://auth.geeksforgeeks.org/user/boora_harsha_vardhan/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user">
+    <img alt = "image16" src="https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/b8a41ee7-45bf-461a-9214-7d1483c11a1f"
+      height = 10% width = 10%>
+  </a>
+  <a href="https://leetcode.com/21981a4466/"> 
+     <img alt ="image17" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/b9c9d875-034c-4dc9-9856-57680ebd1160" 
+       height = 10% width = 10%>
+  </a>
+  <a href ="https://www.codingninjas.com/studio/profile/Harsha2004">
+     <img alt ="image18" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/09c13b54-aa6b-43c5-bdd5-3c21a4747030" height = 10% 
+      width = 10%>
+  </a>
+  <a href="https://www.hackerrank.com/profile/21981a4466">
+    <img alt = "image19" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/d1d977fb-8392-4d37-9b64-41779889d8d3" height = 10%
+      width = 10%>
+  </a>
+  <a href = "https://www.hackerearth.com/@21981a4466">
+    <img alt = "image20" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/d6a47da0-1dd4-4519-b958-db9d7db1516a" height = 9%
+      width = 9%>
+  </a>
+  <a href =  "https://www.codechef.com/users/harsha_200410">
+       <img alt = "image21" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/16de90c3-3c21-47ad-a7de-677624cd4a55" 
+         height = 10% width = 10%>
+  </a>
+  <a href = "https://codeforces.com/profile/Harsha_Vardhan_boora">
+    <img alt = "image22" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/f4059d5d-223c-4291-a368-6a54e4a3190b" height = 10% 
+      width = 10% >
+  </a>
+</div>
 
 <div>
 <h2> <i>About me</i> </h2>
@@ -73,6 +104,8 @@ width =  10% >
 <h3 align = "left">😄 Pronouns: He/Him</h3>
 <h3 align ="left">💬 Ask me about : Swift/IOS , Java , Python</h3>
 <h3 align = "left">⚡Fun fact : Drifting with the swift</h3> </div>
+
+
 
 <!--
 **harshavardhanyadav2004/harshavardhanyadav2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
