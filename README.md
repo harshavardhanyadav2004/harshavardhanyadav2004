@@ -1,7 +1,8 @@
 #                                      Hi Guys ! I am Harsha 👋
 ###                           🔭 I’m currently working on IOS and Machine Learning 
 
-![GITHUB](https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/9a322252-3b00-48ed-bfae-f4ee7c453057)
+![GITHUB CO](https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/063cc0c3-3aed-4385-b1c5-81bbbae47d90)
+
 
 
 
