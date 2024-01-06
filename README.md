@@ -130,7 +130,7 @@ width =  10% >
 <div align="center">
    <img alt = "streakImage" src = "https://streak-stats.demolab.com/?user=harshavardhanyadav2004&theme=dark" height= 50% width=40%>
 </div>
-</ul>
+</div>
 
 
 
