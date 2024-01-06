@@ -1,5 +1,7 @@
 <h1 align="center">  Hi Guys ! I am Harsha 👋 </h1>
-<img src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/5c45b0c8-2b85-4b5a-9e83-ab05fa1cf823" alt = "GitHUB" height=40% width=100% align ="center">
+<div style="display:inline-block;">
+<img src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/5c45b0c8-2b85-4b5a-9e83-ab05fa1cf823" alt = "GitHUB" height=50% width=50%>
+</div>
 <h2> <i>Languages Used </i></h2>
 <div style="display:inline-block;">
   <a href = "https://www.java.com/en/">
