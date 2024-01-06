@@ -1,5 +1,5 @@
 <h1 align="center">  Hi Guys ! I am Harsha 👋 </h1>
-<img src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/5c45b0c8-2b85-4b5a-9e83-ab05fa1cf823" alt = "GitHUB" height=100% width=100% align ="center">
+<img src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/5c45b0c8-2b85-4b5a-9e83-ab05fa1cf823" alt = "GitHUB" height=40% width=100% align ="center">
 <h2> <i>Languages Used </i></h2>
 <div style="display:inline-block;">
   <a href = "https://www.java.com/en/">
@@ -62,6 +62,9 @@ width =  10% >
     <img alt = "image14" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/cf1c57d9-0fdf-49e7-b424-d001226b7c4b" height = 10% 
       width = 10%>
   </a>
+  <a href = "https://developer.apple.com/">
+    <img alt = "image15" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/5573bcfa-acb6-4b46-af4b-814708623cb2" height = 11%
+      width = 11%>
 </div>
 
 <div>
