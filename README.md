@@ -31,16 +31,37 @@
       width = 10%>
   </a>
   <a href = "https://www.javascript.com/">
-      <img alt = "image9" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/cc68a735-9f19-4d06-b2f0-8d161710dbb1" height = 10%
-        width = 10% >
-  </a>
-  <br>
-  <br>
-  <a href = "https://developer.mozilla.org/en-US/">
-    <img alt = "image9" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/4f0e76b0-4a12-49a2-a3d1-e99200741efb" height = 10%
-      width = 10% >
+      <img alt = "image9" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/cc68a735-9f19-4d06-b2f0-8d161710dbb1" height = 11%
+        width = 11% >
   </a>
   
+</div>
+<br> <br> 
+<h2> <i> Tools and Technologies</i></h2>
+<div style="display:inline-block;">
+  <a href = "https://developer.mozilla.org/en-US/">
+    <img alt = "image9" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/bfdd2dbf-fff2-49e1-a45b-a348b70fa895" height = 10%
+      width = 10% >
+  </a>
+  <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS">
+     <img alt = "image10" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/c2639a11-7511-4723-a508-2663c888b23c" height = 10% width = 10%>
+  </a>
+  <a href = "https://www.figma.com/">
+      <img alt = "image11" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/6da7699a-ea91-422e-866d-822faed230c2" height = 10%
+width =  10% >
+  </a>
+  <a href = "https://www.ibm.com/topics/machine-learning">
+    <img alt = "image12" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/9493d268-946d-4cdc-9b3c-04069bf251a4" height = 15%
+      width = 15%>
+  </a>
+  <a href = "https://www.javatpoint.com/python-data-analytics">
+    <img alt = "image13"  src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/0e95f4cd-49b8-47bb-a6fc-884992f651da" height = 10%
+      width = 10%>
+  </a>
+  <a href = "https://www.canva.com/">
+    <img alt = "image14" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/cf1c57d9-0fdf-49e7-b424-d001226b7c4b" height = 10% 
+      width = 10%>
+  </a>
 </div>
 
 <div>
