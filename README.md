@@ -1,7 +1,20 @@
 <h1 align="center">  Hi Guys ! I am Harsha 👋 </h1>
-<div style="display:inline-block;">
-<img src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/5c45b0c8-2b85-4b5a-9e83-ab05fa1cf823" alt = "GitHUB" height=50% width=50%>
+<div style="display:block;">
+<div align ="center">
+   <img src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/5c45b0c8-2b85-4b5a-9e83-ab05fa1cf823" alt = "GitHUB" height=50% 
+     width=50%>
 </div>
+<br>
+<br>
+<div style="display:inline-block;">
+
+   <img src = "https://github-readme-stats.vercel.app/api?username=harshavardhanyadav2004&theme=radical&show_icons=true" alt = "Contributions" height= 30% 
+     width = 40%>
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhanyadav2004&layout=compact" alt ="languagesUsed" height = 30% width = 40% align = "right">
+</div>
+</div>
+<br>
+<br>
 <h2> <i>Languages Used </i></h2>
 <div style="display:inline-block;">
   <a href = "https://www.java.com/en/">
