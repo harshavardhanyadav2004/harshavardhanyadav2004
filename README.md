@@ -1,8 +1,5 @@
-#                                      Hi Guys ! I am Harsha 👋
-###                           🔭 I’m currently working on IOS and Machine Learning 
-
-
-![GITHUB](https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/5c45b0c8-2b85-4b5a-9e83-ab05fa1cf823)
+<h1 align="center">  Hi Guys ! I am Harsha 👋 </h1>
+<img src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/5c45b0c8-2b85-4b5a-9e83-ab05fa1cf823" alt = "GitHUB" height=100% width=100% align ="center">
 
 
 
@@ -17,6 +14,10 @@
 
 
 
+
+
+
+###  🔭 I’m currently working on IOS and Machine Learning 
 ### 😄 Pronouns: He/Him
 ### 💬 Ask me about : Swift/IOS , Java , Python
 ### Fun fact : Drifting with the swift
