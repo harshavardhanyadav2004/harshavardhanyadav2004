@@ -116,13 +116,20 @@ width =  10% >
   </a>
 </div>
 
+<div style = "display:flex;">
 <div>
 <h2> <i>About me</i> </h2>
 <ul type="square">
 <li><h4 align="left"> 🔭 I’m currently working on IOS and Machine Learning </h4></li>
 <li><h4 align = "left">😄 Pronouns: He/Him</h4></li>
 <li><h4 align ="left">💬 Ask me about : Swift/IOS , Java , Python</h4></li>
-<li><h4 align = "left">⚡Fun fact : Drifting with the swift</h4> </div></li>
+<li><h4 align = "left">⚡Fun fact : Drifting with the swift</h4> </li>
+</ul>
+</div>
+<h2> <i> Streak </i> </h2>
+<div align="center">
+   <img alt = "streakImage" src = "https://streak-stats.demolab.com/?user=harshavardhanyadav2004&theme=dark" height= 50% width=40%>
+</div>
 </ul>
 
 
