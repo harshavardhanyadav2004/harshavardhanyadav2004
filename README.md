@@ -2,6 +2,9 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=harshavardhanyadav2004&color=blue" alt="profile" align = "left">
 <br>
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=harshavardhanyadav2004" alt="stars" align = "left">
+<br>
 <div style="display:block;">
 <div align ="center">
    <img src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/5c45b0c8-2b85-4b5a-9e83-ab05fa1cf823" alt = "GitHUB" height=50% 
