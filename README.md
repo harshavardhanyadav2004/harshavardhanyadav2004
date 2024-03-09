@@ -13,19 +13,19 @@
 </div>
 <br>
 <br>
+<div align = "center">
+   <h2 align="left"> <i>Contributions Chart </i></h2>
+     <img src = "https://github-readme-activity-graph.vercel.app/graph?username=harshavardhanyadav2004&theme=rogue" alt = "ContGraph" height = 50% width = 80%>
+</div>
+<br>
+<br>
+<br> 
 <div style="display:inline-block;">
 
    <img src = "https://github-readme-stats.vercel.app/api?username=harshavardhanyadav2004&theme=radical&show_icons=true" alt = "Contributions" height= 30% 
      width = 40%>
    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhanyadav2004&layout=compact" alt ="languagesUsed" height = 30% width = 40% align = "right">
 </div>
-</div>
-<br>
-<br>
-<br>
-<div align = "center">
-   <h2 align="left"> <i>Contributions Chart </i></h2>
-     <img src = "https://github-readme-activity-graph.vercel.app/graph?username=harshavardhanyadav2004&theme=rogue" alt = "ContGraph" height = 50% width = 100%>
 </div>
 <br>
 <br>
