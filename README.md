@@ -1,4 +1,6 @@
-<h1 align="center">  Hi Guys ! I am Harsha 👋 </h1>
+<h1 align="center"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+Guys+😁;+I+am+Harsha;" alt="Typing SVG" />
+</h1>
 <br>
 <img src="https://komarev.com/ghpvc/?username=harshavardhanyadav2004&color=blue" alt="profile" align = "left">
 <br>
