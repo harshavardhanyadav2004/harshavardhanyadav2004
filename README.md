@@ -3,7 +3,8 @@
 <img src="https://komarev.com/ghpvc/?username=harshavardhanyadav2004&color=blue" alt="profile" align = "left">
 <br>
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=harshavardhanyadav2004" alt="stars" align = "left">
+<div align = "center">
+<img src="https://github-profile-trophy.vercel.app/?username=harshavardhanyadav2004" alt="stars"> </div>
 <br>
 <div style="display:block;">
 <div align ="center">
@@ -18,6 +19,13 @@
      width = 40%>
    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhanyadav2004&layout=compact" alt ="languagesUsed" height = 30% width = 40% align = "right">
 </div>
+</div>
+<br>
+<br>
+<br>
+<div align = "center">
+   <h2 align="left"> <i>Contributions Chart </i></h2>
+     <img src = "https://github-readme-activity-graph.vercel.app/graph?username=harshavardhanyadav2004&theme=rogue" alt = "ContGraph" height = 50% width = 100%>
 </div>
 <br>
 <br>
