@@ -18,6 +18,10 @@
 <div align = "center">
    <h2 align="left"> <i>Contributions Chart </i></h2>
      <img src = "https://github-readme-activity-graph.vercel.app/graph?username=harshavardhanyadav2004&theme=rogue" alt = "ContGraph" height = 50% width = 80%>
+     <br>
+     <br>
+     <h2 align = "left" ><i> Snake eating my contributions</i></h2>
+     <img src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/blob/output/github-contribution-grid-snake.gif" alt = "snakes" height = 50% width=80%>
 </div>
 <br>
 <br>
