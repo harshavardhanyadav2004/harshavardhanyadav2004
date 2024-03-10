@@ -1,6 +1,13 @@
 <h1 align="center"> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+Guys+😁;+I+am+Harsha;" alt="Typing SVG" />
 </h1>
+<br> 
+<div style="display:inline-block;" align = "center"> 
+    <div>
+       <a href = "https://www.linkedin.com/in/harsha-vardhan-boora-551a1525b/"> <img src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/a863d772-02b5-4164-9662-45e7d4e04926" alt = "linkedin" height = 10% width = 10%>
+       </a>
+    </div>
+</div>
 <br>
 <img src="https://komarev.com/ghpvc/?username=harshavardhanyadav2004&color=blue" alt="profile" align = "left">
 <br>
