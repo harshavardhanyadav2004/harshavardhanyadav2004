@@ -1,174 +1,198 @@
-<h1 align="center"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+Guys+😁;+I+am+Harsha;" alt="Typing SVG" />
-</h1>
-<br> 
-<div style="display:inline-block;" align = "center"> 
-    <div>
-       <a href = "https://www.linkedin.com/in/harsha-vardhan-boora-551a1525b/"> <img src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/a863d772-02b5-4164-9662-45e7d4e04926" alt = "linkedin" height = 10% width = 10%>
-       </a>
-    </div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=6C3483&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi;I'm+Harsha+Vardhan+Boora;IOS+Developer+%26+ML+Expert;Passionate+Problem+Solver;Creative+Coder" alt="Typing SVG" />
 </div>
-<br>
-<img src="https://komarev.com/ghpvc/?username=harshavardhanyadav2004&color=blue" alt="profile" align = "left">
-<br>
-<br>
-<div align = "center">
-<img src="https://github-profile-trophy.vercel.app/?username=harshavardhanyadav2004" alt="stars"> </div>
-<br>
-<div style="display:block;">
-<div align ="center">
-   <img src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/5c45b0c8-2b85-4b5a-9e83-ab05fa1cf823" alt = "GitHUB" height=50% 
-     width=50%>
-</div>
-<br>
-<br>
-<div align = "center">
-   <h2 align="left"> <i>Contributions Chart </i></h2>
-     <img src = "https://github-readme-activity-graph.vercel.app/graph?username=harshavardhanyadav2004&theme=rogue" alt = "ContGraph" height = 50% width = 80%>
-     <br>
-     <br>
-     <h2 align = "left" ><i> Snake eating my contributions</i></h2>
-     <img src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/blob/output/github-contribution-grid-snake.gif" alt = "snakes" height = 50% width=80%>
-</div>
-<br>
-<br>
-<br> 
-<div style="display:inline-block;">
 
-   <img src = "https://github-readme-stats.vercel.app/api?username=harshavardhanyadav2004&theme=radical&show_icons=true" alt = "Contributions" height= 30% 
-     width = 40%>
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhanyadav2004&layout=compact" alt ="languagesUsed" height = 30% width = 40% align = "right">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshavardhanyadav2004&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/harsha-vardhan-boora-551a1525b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:harsha10012004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://harsha-vardhan-boora.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=github" alt="Portfolio" /></a>
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWMzMmJuZjNjazFiMjlzM2M5OGI2NWM5OGNlMDFkZjViNzlmYWZmYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
+
+<h2 align="center">⚡ Tech Stack ⚡</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3 align="center">Languages</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Frameworks & Tools</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/SwiftUI-0096FF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+          <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+          <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Databases</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+          <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
-<br>
-<br>
-<h2> <i>Languages Used </i></h2>
-<div style="display:inline-block;">
-  <a href = "https://www.java.com/en/">
-  <img alt = "image1" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/a215df3f-0040-489d-8732-294153e926a7" height=10% width=10% align="left"> </a>
-  <a href = "https://www.python.org/">
-    <img alt = "image2" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/b928ba22-2391-4422-b1ac-d6b28cc27352" height = 10% width = 10% align="left">
-  </a>
-  <a href="https://www.mongodb.com/"> 
-    <img alt = "image3" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/2b014dbb-9b1f-422c-a170-e14cf420c2ee" height = 10% 
-      width = 10% >
-  </a>
-  <a href = "https://isocpp.org/">
-    <img alt = "image4" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/ad6fed9f-4658-477c-857a-934a247256ae" height = 10% width = 10%>
-  </a>
-  <a href = "https://www.learn-c.org/"> 
-    <img alt = "image5" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/492f5d37-3049-4bb5-a6e8-a4e6e33db9c4" height = 9%
-      width = 9% >
-  </a>
-  <a href = "https://developer.apple.com/swift/">
-    <img alt = "image6" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/22bd0d82-bef6-45cd-a25a-ba22563a9efb" height = 10%
-      width = 10%>
-  </a>
-  <a href = "https://www.mysql.com/"> 
-    <img alt = "image7" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/f96703f0-e73c-4b6c-8369-6a5b073a11c4" height = 10% 
-      width = 10% >
-  </a>
-  <a href= "https://www.r-project.org/about.html">
-    <img alt = "image8" src="https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/61bca91d-6f92-4323-b069-dc988d52f381" height = 10%
-      width = 10%>
-  </a>
-  <a href = "https://www.javascript.com/">
-      <img alt = "image9" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/cc68a735-9f19-4d06-b2f0-8d161710dbb1" height = 11%
-        width = 11% >
-  </a>
-  
+
+<h2 align="center">📈 GitHub Stats & Activity 📈</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshavardhanyadav2004&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhanyadav2004&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Top Languages" height="200" />
 </div>
-<br> 
-<h2> <i> Tools and Technologies</i></h2>
-<div style="display:inline-block;">
-  <a href = "https://developer.mozilla.org/en-US/">
-    <img alt = "image9" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/bfdd2dbf-fff2-49e1-a45b-a348b70fa895" height = 10%
-      width = 10% >
-  </a>
-  <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS">
-     <img alt = "image10" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/c2639a11-7511-4723-a508-2663c888b23c" height = 10% width = 10%>
-  </a>
-  <a href = "https://www.figma.com/">
-      <img alt = "image11" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/6da7699a-ea91-422e-866d-822faed230c2" height = 10%
-width =  10% >
-  </a>
-  <a href = "https://www.ibm.com/topics/machine-learning">
-    <img alt = "image12" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/9493d268-946d-4cdc-9b3c-04069bf251a4" height = 15%
-      width = 15%>
-  </a>
-  <a href = "https://www.javatpoint.com/python-data-analytics">
-    <img alt = "image13"  src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/0e95f4cd-49b8-47bb-a6fc-884992f651da" height = 10%
-      width = 10%>
-  </a>
-  <a href = "https://www.canva.com/">
-    <img alt = "image14" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/cf1c57d9-0fdf-49e7-b424-d001226b7c4b" height = 10% 
-      width = 10%>
-  </a>
-  <a href = "https://developer.apple.com/">
-    <img alt = "image15" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/5573bcfa-acb6-4b46-af4b-814708623cb2" height = 11%
-      width = 11%>
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=harshavardhanyadav2004&theme=radical&hide_border=true&background=0D1117&ring=6C3483&fire=D83A7C&currStreakLabel=D83A7C" alt="GitHub Streak" />
 </div>
-<div style="display:inline-block;">
-  <h2><i>Coding Profiles</i></h2>
-  <a href = "https://auth.geeksforgeeks.org/user/boora_harsha_vardhan/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user">
-    <img alt = "image16" src="https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/b8a41ee7-45bf-461a-9214-7d1483c11a1f"
-      height = 10% width = 10%>
+
+<br />
+
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshavardhanyadav2004&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</div>
+
+<h2 align="center">🌟 Coding Journey 🌟</h2>
+
+```python
+def harsha_vardhan():
+    education = {
+        "degree": "Computer Science",
+        "institution": "Raghu Engineering College",
+        "graduation_year": 2025
+    }
+    
+    skills = {
+        "languages": ["Swift", "Python", "Java", "C++", "JavaScript", "R"],
+        "frameworks": ["SwiftUI", "UIKit", "TensorFlow", "Pandas"],
+        "tools": ["Xcode", "Git", "Figma", "Canva"],
+        "areas": ["iOS Development", "Machine Learning", "Data Analytics"]
+    }
+    
+    interests = ["Mobile App Development", "Artificial Intelligence", 
+                "Problem Solving", "Competitive Programming"]
+    
+    coding_profiles = {
+        "LeetCode": "21981a4466",
+        "GeeksforGeeks": "boora_harsha_vardhan",
+        "CodeChef": "harsha_200410",
+        "Codeforces": "Harsha_Vardhan_boora",
+        "HackerRank": "21981a4466"
+    }
+    
+    return "A passionate developer on a mission to create impactful software solutions!"
+
+print(harsha_vardhan())
+```
+
+<h2 align="center">📱 My Coding Profiles 📱</h2>
+
+<div align="center">
+  <a href="https://www.geeksforgeeks.org/user/boora_harsha_vardhan/?ref=header_profile">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
-  <a href="https://leetcode.com/21981a4466/"> 
-     <img alt ="image17" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/b9c9d875-034c-4dc9-9856-57680ebd1160" 
-       height = 10% width = 10%>
+  <a href="https://leetcode.com/u/21981a4466/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href ="https://www.codingninjas.com/studio/profile/Harsha2004">
-     <img alt ="image18" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/09c13b54-aa6b-43c5-bdd5-3c21a4747030" height = 10% 
-      width = 10%>
+  <a href="https://www.naukri.com/code360/profile/Harsha2004">
+    <img src="https://img.shields.io/badge/CodingNinjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas" />
   </a>
   <a href="https://www.hackerrank.com/profile/21981a4466">
-    <img alt = "image19" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/d1d977fb-8392-4d37-9b64-41779889d8d3" height = 10%
-      width = 10%>
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href = "https://www.hackerearth.com/@21981a4466">
-    <img alt = "image20" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/d6a47da0-1dd4-4519-b958-db9d7db1516a" height = 9%
-      width = 9%>
+  <a href="https://www.hackerearth.com/@21981a4466">
+    <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
   </a>
-  <a href =  "https://www.codechef.com/users/harsha_200410">
-       <img alt = "image21" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/16de90c3-3c21-47ad-a7de-677624cd4a55" 
-         height = 10% width = 10%>
+  <a href="https://www.codechef.com/users/harsha_200410">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href = "https://codeforces.com/profile/Harsha_Vardhan_boora">
-    <img alt = "image22" src = "https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/f4059d5d-223c-4291-a368-6a54e4a3190b" height = 10% 
-      width = 10% >
+  <a href="https://codeforces.com/profile/Harsha_Vardhan_boora">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </div>
 
-<div style = "display:flex;">
-<div>
-<h2> <i>About me</i> </h2>
-<ul type="square">
-<li><h4 align="left"> 🔭 I’m currently working on IOS and Machine Learning </h4></li>
-<li><h4 align = "left">😄 Pronouns: He/Him</h4></li>
-<li><h4 align ="left">💬 Ask me about : Swift/IOS , Java , Python</h4></li>
-<li><h4 align = "left">⚡Fun fact : Drifting with the swift</h4> </li>
-</ul>
-</div>
-<h2> <i> Streak </i> </h2>
+<h2 align="center">🚀 Current Focus 🚀</h2>
+
 <div align="center">
-   <img alt = "streakImage" src = "https://streak-stats.demolab.com/?user=harshavardhanyadav2004&theme=dark" height= 50% width=40%>
+  <table>
+    <tr>
+      <td>
+        <ul>
+          <li>🔭 Working on <b>Next js and Machine Learning projects</b></li>
+          <li>🌱 Learning <b>Advanced Swift, SwiftUI, and TensorFlow</b></li>
+          <li>👯 Looking to collaborate on <b>iOS or AI/ML projects</b></li>
+          <li>💬 Ask me about <b>Swift, iOS, Python, or Problem Solving</b></li>
+          <li>📫 Reach me at: <b><a href="https://www.linkedin.com/in/harsha-vardhan-boora-551a1525b/">LinkedIn</a></b></li>
+          <li>😄 Pronouns: <b>He/Him</b></li>
+          <li>⚡ Fun fact: <b>Drifting with the Swift!</b></li>
+        </ul>
+      </td>
+      <td>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjkzY2R6bGpoejJrZHN1Y2lxMjVzNWRtY3c3eXE2MHRvNXU2ZTIwYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/DqzXNJYDKMtgBJJoO5/giphy.gif" width="250" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+<h2 align="center">📊 Contribution Graph 📊</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshavardhanyadav2004&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=6C3483&point=D83A7C" alt="Contribution Graph" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
+<h2 align="center">💭 Random Dev Quote 💭</h2>
 
-<!--
-**harshavardhanyadav2004/harshavardhanyadav2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h2>🤝 Connect With Me 🤝</h2>
+  <a href="https://www.linkedin.com/in/harsha-vardhan-boora-551a1525b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:harsha10012004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://x.com/sri_boora73837">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/harsha_vardhan_boora/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%" />
+</div>
