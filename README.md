@@ -1,100 +1,102 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=40&pause=1000&color=6C3483&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello+World!;I'm+Harsha+Vardhan+Boora;iOS+Developer+%26+ML+Expert;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=800&size=40&pause=1000&color=E23237&center=true&vCenter=true&random=false&width=600&height=100&lines=JARVIS+Online;I'm+Harsha+Vardhan+Boora;iOS+Developer+%26+ML+Expert;The+Armored+Avenger+of+Code" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harsha-vardhan-boora-551a1525b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:harsha10012004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://harsha-vardhan-boora.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://harsha-vardhan-boora.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-E23237?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://x.com/sri_boora73837"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://www.instagram.com/harsha_vardhan_boora/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <img src="https://komarev.com/ghpvc/?username=harshavardhanyadav2004&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=harshavardhanyadav2004&label=Profile%20Views&color=E23237&style=flat-square" alt="Profile Views" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWMzMmJuZjNjazFiMjlzM2M5OGI2NWM5OGNlMDFkZjViNzlmYWZmYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y0OGQ2YmU2YmVlMzA1ZGQ2MTk0MDUxZmU4MDhmZjZlNThhMjk1NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eCwAEs05phtK/giphy.gif" width="450" />
 </div>
 
-## 💫 About Me
+## <span style="color:#E23237">⚡ SUIT UP: ABOUT ME</span>
 
 ```python
 #!/usr/bin/env python
-class HarshaVardhan:
+class IronDeveloper:
     def __init__(self):
+        self.name = "Harsha Vardhan Boora"
+        self.alias = "The Armored Avenger of Code"
         self.education = {
             "degree": "Computer Science",
             "institution": "Raghu Engineering College",
             "graduation_year": 2025
         }
         
-        self.skills = {
+        self.arsenal = {
             "languages": ["Swift", "Python", "Java", "C++", "JavaScript", "R"],
             "frameworks": ["SwiftUI", "UIKit", "TensorFlow", "Pandas"],
             "tools": ["Xcode", "Git", "Figma", "Canva"],
             "domains": ["iOS Development", "Machine Learning", "Data Analytics"]
         }
         
-        self.current_focus = [
-            "Advanced Swift & SwiftUI",
-            "Next.js Applications",
-            "Machine Learning Research",
-            "Problem Solving"
+        self.current_projects = [
+            "MARK 42: Advanced Swift & SwiftUI",
+            "JARVIS 2.0: Next.js Applications",
+            "ULTRON DEFENSE: Machine Learning Research",
+            "ALGORITHM BREAKER: Problem Solving"
         ]
         
-        self.interests = [
+        self.mission = [
             "Mobile App Development",
             "Artificial Intelligence",
             "Competitive Programming"
         ]
         
     def say_hi(self):
-        return "A passionate developer on a mission to create impactful software solutions!"
+        return "I am Iron Dev. The suit and I are one."
 
-me = HarshaVardhan()
+me = IronDeveloper()
 print(me.say_hi())
 ```
 
-## 🚀 Current Focus
+## <span style="color:#E23237">🚀 CURRENT MISSION</span>
 
 <table>
-  <tr>
+  <tr style="background-color:#111111">
     <td>
       <ul>
-        <li>🔭 Working on <b>Next.js and Machine Learning projects</b></li>
-        <li>🌱 Learning <b>Advanced Swift, SwiftUI, and TensorFlow</b></li>
-        <li>👯 Open to collaborate on <b>iOS or AI/ML projects</b></li>
-        <li>💬 Ask me about <b>Swift, iOS, Python, or Problem Solving</b></li>
-        <li>📫 Reach me at: <b><a href="mailto:harsha10012004@gmail.com">harsha10012004@gmail.com</a></b></li>
-        <li>⚡ Fun fact: <b>Drifting with the Swift!</b></li>
+        <li>🔭 Building <b>Next.js projects & ML models like Tony builds suits</b></li>
+        <li>🌱 Upgrading with <b>Advanced Swift, SwiftUI, and TensorFlow</b></li>
+        <li>👯 Looking for <b>fellow Avengers to collaborate on iOS or AI/ML projects</b></li>
+        <li>💬 I can talk about <b>Swift, iOS, Python, or Problem Solving all day</b></li>
+        <li>📫 Reach my secure channel: <b><a href="mailto:harsha10012004@gmail.com">harsha10012004@gmail.com</a></b></li>
+        <li>⚡ Fun fact: <b>I am Iron Dev. 3000.</b></li>
       </ul>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjkzY2R6bGpoejJrZHN1Y2lxMjVzNWRtY3c3eXE2MHRvNXU2ZTIwYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/DqzXNJYDKMtgBJJoO5/giphy.gif" width="220" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRsdDVlenh4YmJnOWgzcWNkZGMwOXNsZmEyYWpicTFjNnB1ejQ3aCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fSvqyvXn1M3btN8sDh/giphy.gif" width="220" />
     </td>
   </tr>
 </table>
 
-## ⚡ Tech Stack
+## <span style="color:#E23237">⚡ TECH ARSENAL</span>
 
-<table>
+<table style="background:linear-gradient(145deg, #111111, #0A0A0A); border:2px solid #E23237;">
   <tr>
     <td valign="top" width="33%">
-      <h3 align="center">Languages</h3>
+      <h3 align="center" style="color:#F0B322">Language Systems</h3>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=swift,python,java,cpp,c,js,r&theme=dark" alt="Languages" />
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">Frameworks & Tools</h3>
+      <h3 align="center" style="color:#F0B322">Frameworks & Tools</h3>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=tensorflow,react,nextjs,git,figma,vscode&theme=dark" alt="Frameworks & Tools" />
         <br>
-        <img src="https://img.shields.io/badge/SwiftUI-0096FF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
-        <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
+        <img src="https://img.shields.io/badge/SwiftUI-E23237?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+        <img src="https://img.shields.io/badge/Xcode-F0B322?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">Databases</h3>
+      <h3 align="center" style="color:#F0B322">Data Centers</h3>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase&theme=dark" alt="Databases" />
       </div>
@@ -102,55 +104,55 @@ print(me.say_hi())
   </tr>
 </table>
 
-## 📊 GitHub Analytics
+## <span style="color:#E23237">📊 MISSION STATISTICS</span>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshavardhanyadav2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhanyadav2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+<div align="center" style="background:linear-gradient(145deg, #111111, #0A0A0A); border:2px solid #E23237; padding:10px; border-radius:10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshavardhanyadav2004&show_icons=true&title_color=E23237&text_color=FFFFFF&icon_color=F0B322&bg_color=0D1117&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhanyadav2004&layout=compact&title_color=E23237&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top Languages" height="170" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=harshavardhanyadav2004&theme=tokyonight&hide_border=true&ring=6C3483&fire=D83A7C&currStreakLabel=D83A7C" alt="GitHub Streak" />
+<div align="center" style="margin-top:20px;">
+  <img src="https://streak-stats.demolab.com?user=harshavardhanyadav2004&theme=dark&hide_border=true&background=0D1117&stroke=E23237&ring=F0B322&fire=E23237&currStreakLabel=F0B322" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshavardhanyadav2004&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=6C3483&point=D83A7C" alt="Contribution Graph" width="95%" />
+<div align="center" style="margin-top:20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshavardhanyadav2004&theme=react-dark&hide_border=true&bg_color=0D1117&line=E23237&point=F0B322&color=FFFFFF" alt="Contribution Graph" width="95%" />
 </div>
 
-## 🏆 GitHub Trophies
+## <span style="color:#E23237">🏆 ACHIEVEMENTS GALLERY</span>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshavardhanyadav2004&theme=nord&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+<div align="center" style="background:linear-gradient(145deg, #111111, #0A0A0A); border:2px solid #E23237; padding:10px; border-radius:10px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshavardhanyadav2004&theme=darkhub&no-frame=true&margin-w=15&column=7&title_color=E23237" alt="GitHub Trophies" />
 </div>
 
-## 📱 Coding Profiles
+## <span style="color:#E23237">📱 COMBAT TRAINING GROUNDS</span>
 
-<div align="center">
+<div align="center" style="background:linear-gradient(145deg, #111111, #0A0A0A); border:2px solid #E23237; padding:20px; border-radius:10px;">
   <a href="https://leetcode.com/u/21981a4466/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-F0B322?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/boora_harsha_vardhan/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-E23237?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
   <a href="https://www.codechef.com/users/harsha_200410">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/CodeChef-F0B322?style=for-the-badge&logo=codechef&logoColor=black" alt="CodeChef" />
   </a>
   <a href="https://codeforces.com/profile/Harsha_Vardhan_boora">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-E23237?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://www.hackerrank.com/profile/21981a4466">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    <img src="https://img.shields.io/badge/HackerRank-F0B322?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
   </a>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top:20px;">
   <img src="https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="95%" />
 </div>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+<div align="center" style="background:linear-gradient(145deg, #111111, #0A0A0A); border:2px solid #E23237; padding:10px; border-radius:10px; margin-top:20px;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E23237&height=150&section=footer&text=Part%20of%20the%20journey%20is%20the%20end&fontSize=24&fontColor=F0B322&fontAlignY=65&desc=Thanks%20for%20visiting!&descSize=18&descAlignY=85&animation=fadeIn" width="100%" />
 </div>
