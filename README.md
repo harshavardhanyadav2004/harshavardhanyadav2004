@@ -82,8 +82,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshavardhanyadav2004&show_icons=true&title_color=00ADD8&text_color=FFFFFF&icon_color=00ADD8&bg_color=0D1117&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhanyadav2004&layout=compact&title_color=00ADD8&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshavardhanyadav2004&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshavardhanyadav2004&theme=github_dark" />
 </p>
 
 <p align="center">
@@ -96,10 +96,10 @@
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshavardhanyadav2004&theme=darkhub&no-frame=true&margin-w=15&column=7&title_color=00ADD8" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshavardhanyadav2004&theme=github_dark" />
 </p>
 
 ---
